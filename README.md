@@ -1,4 +1,4 @@
-# Gemini Text Summarizer ✨
+# AI Text Summarizer & Sentiment Analyzer ✨
 
 A Streamlit app that uses Google Gemini API to summarize large chunks of text into key points.
 
